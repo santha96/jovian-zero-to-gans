@@ -1,2 +1,2 @@
 # jovian-zero-to-gans
-This repository contains datascience projects.
+This repository contains jovian.ai pytorch assignments.
